@@ -1,0 +1,9 @@
+{
+  "configurations": {
+    "app": {
+      "host": "127.0.0.1",
+      "appLocation": "dist/swa-weather-app-ng16",
+      "apiLocation": "api"
+    }
+  }
+}
